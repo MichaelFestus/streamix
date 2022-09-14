@@ -1,6 +1,6 @@
-# Streamix
+# StreamXi
 
-Streamix is a subscription streaming service
+StreamXi is a subscription streaming service
 
 # Live version
 
@@ -18,23 +18,13 @@ If you would like to contribute to this amazing project, you can create a Pull R
 
 Before interacting with our community, please read our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-### Installation
+### Technologies
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+1. Get API Key at [TMDB](https://https://www.themoviedb.org/)
+2. NPM, Yarn, PNPM
+3. Nextjs
+4. Tailwindcss
 
-1. Get your API Key at [TMDB](https://https://www.themoviedb.org/)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/ibrahimraimi/streamix/
-   ```
-3. Install NPM packages
-   ```sh
-   yarn install
-   ```
-4. Enter your API in a  `.env` file
-   ```js
-   NEXT_PUBLIC_TMDB_API_KEY="your api key"
-   ```
 ## Licensing
 
 Copyright (C) 2022 Ibrahim Raimi
